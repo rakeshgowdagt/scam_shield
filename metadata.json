@@ -1,0 +1,8 @@
+{
+  "name": "Scam Shield",
+  "description": "AI-powered scam detection tool for Indian college students to verify internship, job, scholarship, and recruiter messages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
