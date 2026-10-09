@@ -52,44 +52,6 @@ Scam Shield leverages the Google GenAI SDK (`@google/genai`) running on the serv
 
 ---
 
-## 🚀 Quick Setup & Run Instructions
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/scam-shield.git
-cd scam-shield
-```
-
-### 2. Install dependencies
-```bash
-npm install
-```
-
-### 3. Configure Environment Variables
-Copy `.env.example` to `.env` and insert your Gemini API Key:
-```bash
-cp .env.example .env
-```
-Inside `.env`:
-```env
-GEMINI_API_KEY=your_gemini_api_key_here
-```
-*(Get a free API key at [Google AI Studio](https://aistudio.google.com/)).*
-
-### 4. Run Development Server
-```bash
-npm run dev
-```
-The application will launch on `http://localhost:3000`.
-
-### 5. Build for Production
-```bash
-npm run build
-npm start
-```
-
----
-
 ## ✨ Features
 
 - **5 One-Click Sample Presets:** Try common student scenarios immediately:
